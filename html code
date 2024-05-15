@@ -1,0 +1,61 @@
+<html>
+<head>
+    <title>Google Search Engine</title>
+    <link rel="icon" href="https://static.vecteezy.com/system/resources/thumbnails/011/598/471/small/google-logo-icon-illustration-free-vector.jpg" type="image/x-icon" id="ut">
+    <link rel="stylesheet" href="lecture9.css ">
+   
+</head>
+<body>
+    <div class="tainer">
+    <img src="https://chris-mahmood.github.io/google-homepage/images/grid.png" alt="" align="right" width="44px">&nbsp;
+    <a href="https://mail.google.com/mail">
+    <font color="beige">Gmail</font></a> &nbsp;
+    <a href="https://www.google.com/search"><font color="beige">Images</font></a>&nbsp;&nbsp;
+    <a href="https://labs.google.com/search"><img src="https://previews.123rf.com/images/chizhiq/chizhiq1908/chizhiq190800700/128426057-lab-icon-vector-flask-science-symbol-chemical-laboratory-research-thin-line-pictogram-outline.jpg" alt="" width="34px" height="32px" target="_blank"></a>
+    </div><br>
+    <p>
+
+    </p><br>
+    <p>
+
+    </p><br>
+    <div class="container">
+    <h1 align="center" >Google</h1>
+    </div>
+    <div class="search_conatiner" align="center">
+        <form action="https://www.google.com/search" method="GET" target="_blank">
+        <input type="text" class="tunk" name="q" placeholder="Search or type a URL">
+
+        <!-- <input type="submit" class="sink" value="Search"> -->
+        </form><br>
+        <p>
+
+        </p><br>
+        
+        <div>
+            <a href="https://www.youtube.com/search" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShlzuRgV0G5l3YQi4VR6I2qL8kzFddsrvCZw&usqp=CAU" alt="" width="44px" id="uy"></a>
+            <a href="https://www.google.com/maps" target="_blank"><img src="https://cdn1.vectorstock.com/i/1000x1000/10/60/google-maps-icon-set-map-pin-markers-vector-44241060.jpg" alt="" width="44px" id="uj" ></a>
+            <a href="https://mail.Googlxe.com/mail" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" alt=""  width="44px" id="kl"></a>
+            <a href="https://www.mgmotor.co.in" target="_blank"><img src="https://www.shutterstock.com/shutterstock/photos/2338336597/display_1500/stock-vector-mg-logo-vector-mg-automotive-vector-logo-luxury-cars-editorial-vehicles-transparent-sports-car-2338336597.jpg" alt="" width="44px"  id="mn"></a>
+        </div>
+        <p>
+        </p><br>
+        <div>
+        <a href="https://www.lenskart.com" target="_blank"><img src="https://play-lh.googleusercontent.com/UlSOlQSBkqPjYqKnuPtgpL7-TeAt2O7x8XnQKVelhhxL983Om0xjXmv4wVvVbeznWGg" alt="" width="44px" id="hj"></a>
+        
+        <a href="https://chat.openai.com" target="_blank" ><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" alt="" width="44px" id="fg"></a>
+
+        <a href="https://accounts.google.com" target="_blank"><img src="https://play-lh.googleusercontent.com/t-juVwXA8lDAk8uQ2L6d6K83jpgQoqmK1icB_l9yvhIAQ2QT_1XbRwg5IpY08906qEw" alt="" width="44px" id="sd"></a>
+
+        <a href="https://www.lamborghini.com/en-en" target="_blank"><img src="https://thumbs.dreamstime.com/z/logo-lamborghini-car-color-vector-format-aviable-ai-logo-lamborghini-124368733.jpg" alt="" width="44px" id="as"></a>
+
+        
+        </div>
+        <!-- Add this div where you want to display the search history -->
+<div id="search-history"></div>
+
+       
+<script src="s.js"></script>
+
+</body>
+</html>
